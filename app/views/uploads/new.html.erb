@@ -1,0 +1,4 @@
+<%= form_tag('/uploads/create_file	', :multipart=> true) do %>
+  <%= file_field 'file', 'datafile' %>
+  <%= submit_tag "Upload" %>
+<% end %>

@@ -1,0 +1,6 @@
+== README
+
+
+* FTP file upload using  - ftp.drivehq.com
+
+* FTP methods http://ruby-doc.org/stdlib-2.0/libdoc/net/ftp/rdoc/Net/FTP.html
