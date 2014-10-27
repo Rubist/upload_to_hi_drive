@@ -18,7 +18,6 @@ class UploadsController < ApplicationController
 				ftp.close
 			end	
 		end
-
 		redirect_to new_upload_path
 	end
 end

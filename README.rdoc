@@ -1,6 +1,11 @@
-== README
+== Description
 
+* FTP file upload - ftp.drivehq.com get a free account here.
 
-* FTP file upload using  - ftp.drivehq.com
+* Pass your login credentials at uploads controller
 
-* FTP methods http://ruby-doc.org/stdlib-2.0/libdoc/net/ftp/rdoc/Net/FTP.html
+* More FTP methods http://ruby-doc.org/stdlib-2.0/libdoc/net/ftp/rdoc/Net/FTP.html
+
+== What's implemented
+
+ Attached file is uploaded to application directory first, then the binary file is sent to server.
