@@ -8,4 +8,4 @@
 
 == What's implemented
 
- Attached file is uploaded to application directory first, then the binary file is sent to server.
+Attached file is uploaded to application directory first, then the binary file is sent to server.
